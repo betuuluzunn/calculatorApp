@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/betul/AndroidStudioProjects/HesapMakinesi/app/src/main/res/drawable/custom_btn.xml" value="0.1515" />
+        <entry key="..\:/Users/betul/AndroidStudioProjects/HesapMakinesi/app/src/main/res/drawable/wallpaper.xml" value="0.1" />
+        <entry key="..\:/Users/betul/AndroidStudioProjects/HesapMakinesi/app/src/main/res/layout/activity_add.xml" value="0.2" />
+        <entry key="..\:/Users/betul/AndroidStudioProjects/HesapMakinesi/app/src/main/res/layout/activity_divide.xml" value="0.18" />
+        <entry key="..\:/Users/betul/AndroidStudioProjects/HesapMakinesi/app/src/main/res/layout/activity_islem.xml" value="0.22" />
+        <entry key="..\:/Users/betul/AndroidStudioProjects/HesapMakinesi/app/src/main/res/layout/activity_main.xml" value="0.210727969348659" />
+        <entry key="..\:/Users/betul/AndroidStudioProjects/HesapMakinesi/app/src/main/res/layout/activity_multiple.xml" value="0.22" />
+        <entry key="..\:/Users/betul/AndroidStudioProjects/HesapMakinesi/app/src/main/res/layout/activity_sub.xml" value="0.12291666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
